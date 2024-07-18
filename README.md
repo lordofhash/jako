@@ -5,4 +5,4 @@ This is a repo for DECO. I made it so that I can access my work in the lab as we
 
 Imp links:
 https://de-iitr.vlabs.ac.in/
-circuitverse.org/
+https://circuitverse.org/
